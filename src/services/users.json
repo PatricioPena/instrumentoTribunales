@@ -14,5 +14,13 @@
     "password": "password456",
     "tipoUsuario": "administrador",
     "contacto": "+52 (555) 100-0102"
+  },
+  {
+    "id": 10003,
+    "nombreCompleto": "Patricio Pena",
+    "email": "pat@test.com",
+    "password": "test123",
+    "tipoUsuario": "administrador",
+    "contacto": "+52 (555) 100-0103"
   }
 ]
